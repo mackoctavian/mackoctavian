@@ -2,7 +2,7 @@
 
 I'm Mack,
 
-I'm C, Swift, Javascript and Go developer currently working at Quickii Technologies.
+I'm a C, Swift, Javascript and Go developer currently working at Quickii Technologies.
 
 You can also find me on [Twitter](https://twitter.com/codewithwhisper) or [Linkedin](https://www.linkedin.com/in/mack-octavian-167a37140/).
 <!--
