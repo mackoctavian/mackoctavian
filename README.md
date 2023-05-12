@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Mack,
+
+I'm C, Swift, Javascript and Go developer currently working at Quickii Technologies.
+
+You can also find me on [Twitter](https://twitter.com/codewithwhisper) or [Linkedin](https://www.linkedin.com/in/mack-octavian-167a37140/).
 <!--
 **mackoctavian/mackoctavian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
